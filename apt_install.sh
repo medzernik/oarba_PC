@@ -5,4 +5,4 @@ sudo add-apt-repository ppa:danielrichter2007/grub-customizer
 pkexec apt update
 pkexec apt dist-upgrade
 
-pkexec apt install -y wine-stable ttf-mscorefontsinstaller grub-customizer `check-language-support -l sk` libreoffice 
+pkexec apt install -y wine-stable ttf-mscorefonts-installer grub-customizer `check-language-support -l sk` libreoffice 
