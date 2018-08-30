@@ -1,7 +1,8 @@
 #/bin/bash
 
 add-apt-repository ppa:libreoffice/ppa
-sudo add-apt-repository ppa:danielrichter2007/grub-customizer
+add-apt-repository ppa:danielrichter2007/grub-customizer
+add-apt-repository ppa:kubuntu-ppa/backports
 apt update
 apt dist-upgrade
 
