@@ -7,4 +7,3 @@ apt dist-upgrade
 
 apt install -y wine-stable ttf-mscorefonts-installer grub-customizer `check-language-support -l sk` libreoffice 
 
-cat configkde.txt >> ~/.config/kdeglobals
