@@ -6,6 +6,6 @@ add-apt-repository ppa:kubuntu-ppa/backports
 apt update
 apt dist-upgrade
 
-apt install -y wine-stable ttf-mscorefonts-installer grub-customizer `check-language-support -l sk` libreoffice ubuntu-restricted-extras 
+apt install -y ttf-mscorefonts-installer grub-customizer `check-language-support -l sk` libreoffice ubuntu-restricted-extras 
 
 adduser uzivatel
