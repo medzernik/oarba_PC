@@ -24,15 +24,6 @@ ghns=false
 action/show hidden=false
 plasma-desktop/add_activities=false
 
-[KDE URL Restrictions][$i]
-rule_count=6
-rule_1=open,,,,file,,,false
-rule_2=list,,,,file,,,false
-rule_3=open,,,,file,,$HOME,true
-rule_4=list,,,,file,,$HOME,true
-rule_5=open,,,,file,,$TMP,true
-rule_6=list,,,,file,,$TMP,true
-
 [KDE Control Module Restrictions][$i]
 audiocd.desktop=false
 autostart.desktop=false
